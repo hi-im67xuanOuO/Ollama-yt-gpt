@@ -89,7 +89,7 @@ To start the application, run the following command:
 
 Please feel free to contact me with any issues, comments, or questions.
 
-#### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/royrebello)
+#### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinghsuan-liu-99047b266/)
 
 
 
