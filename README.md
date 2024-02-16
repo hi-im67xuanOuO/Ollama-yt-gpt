@@ -64,7 +64,11 @@ To start the application, run the following command:
 
 
 ### Screenshot
-![Screenshot](https://youtu.be/_lLNQrsVM34 "demo.mov")
+
+
+https://github.com/hi-im67xuanOuO/Ollama-yt-gpt/assets/38979961/3369d0c6-2ddc-47b7-87ac-352b38f8d73e
+
+
 
 
 
