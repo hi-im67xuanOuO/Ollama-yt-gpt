@@ -49,8 +49,8 @@ The official [Ollama Docker image](https://hub.docker.com/r/ollama/ollama) `olla
 ## Quickstart
 
 - Clone the repository:
-`git clone https://github.com/royca/Ollama-yt-gpt.git`
-- Navigate to the project directory:`cd yt-gpt`
+`git clone https://github.com/hi-im67xuanOuO/Ollama-yt-gpt.git`
+- Navigate to the project directory:`cd Ollama-yt-gpt`
 - Install the required dependencies
 ```
 $ pip install langchain faiss-cpu
