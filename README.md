@@ -64,7 +64,8 @@ To start the application, run the following command:
 
 
 ### Screenshot
-![Screenshot](demo.mov)
+![Screenshot](https://youtu.be/_lLNQrsVM34 "demo.mov")
+
 
 
 
