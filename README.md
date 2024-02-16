@@ -1,6 +1,11 @@
 # Ollama-YT-GPT : Generate insights of YouTube video
 Get insights on YouTube videos using Ollama and langchain.
 
+### Screenshot
+
+https://github.com/hi-im67xuanOuO/Ollama-yt-gpt/assets/38979961/3369d0c6-2ddc-47b7-87ac-352b38f8d73e
+
+
 ## Tools and Environment
 - macOS
 - Python 3
@@ -60,13 +65,6 @@ ollama run llama2
 To start the application, run the following command:
 
 `streamlit run yt-gpt.py`
-
-
-
-### Screenshot
-
-
-https://github.com/hi-im67xuanOuO/Ollama-yt-gpt/assets/38979961/3369d0c6-2ddc-47b7-87ac-352b38f8d73e
 
 
 
